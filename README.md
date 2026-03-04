@@ -60,8 +60,7 @@ Uygulama çalışırken çekilmiş kısa video (max 1 dk):
 
 Release APK dosyası aşağıdaki konumdadır:
 
-```
-[C:\mbl_uyg\Native-Creator\android\app\build\outputs\apk\release](https://drive.google.com/file/d/1dJl2gkrJRUT0sHUm2RdOIeQ0Xkt_vya1/view?usp=sharing)
+https://drive.google.com/file/d/1dJl2gkrJRUT0sHUm2RdOIeQ0Xkt_vya1/view?usp=sharing
 ```
 
 APK dosyasını buradan alabilirsiniz.
